@@ -1,0 +1,1 @@
+const words = ["javascript","hyml","css","programa","computador","desenvolvimento" ];
