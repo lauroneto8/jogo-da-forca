@@ -3,3 +3,14 @@ body{
     text-align: center;
     background-color: f0f0f0;
 }
+#word{
+    font-size: 32px;
+    letter-spacing: 10px;
+    margin: 20px;
+}
+#letters button{
+    margin: 5px;
+    padding: 10px;
+    font-size: 18px;
+    cursor: pointer;
+}
